@@ -1,2 +1,2 @@
 #!/bin/bash
-chamod o+6 hello
+chamod o+rwo  hello
